@@ -2,7 +2,7 @@
 
 ## Adventure Game
 ### What Waits in the Woods
-![Image](http://programmingisfun.com/wp-content/uploads/2016/06/adventuregameprogress.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/74846368/99931127-0cf8db00-2d19-11eb-9d18-d45c0c954c22.png)
 
 A game where a camping trrp goes wrong. This game demonstrates a few object-oriented programming principles.
 
