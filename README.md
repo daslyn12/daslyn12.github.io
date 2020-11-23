@@ -8,6 +8,8 @@ A game where a camping trrp goes wrong. This game demonstrates a few object-orie
 
 ## Study Application
 A Study Application that reads in terms and definitions from an external file (or files). This app helps you study for programming class, and could be adjusted for others.
+UML:
+![Screenshot (11)](https://user-images.githubusercontent.com/74846368/99931779-7e398d80-2d1b-11eb-8714-0330a1598ef5.png)
 
 ## Explorable Areas
 A command-line application with areas to explore and items for the player to find in each area. Before you can travel to the lake for snorkeling, the equipment must be found in one of the other areas. 
