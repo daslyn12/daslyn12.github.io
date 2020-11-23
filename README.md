@@ -23,6 +23,8 @@ An application that lets a player create a custom insect character: [Adopt-An-In
 
 ## Trivia Game
 ### Wild Trivia 
+![Screenshot (9)](https://user-images.githubusercontent.com/74846368/99931410-07e85b80-2d1a-11eb-8362-280a3ee167e6.png)
+
 [Trivia Application](https://github.com/janellbaxter/TriviaApplication) is an app where you can put your trivia knowlege about animals to the test.
 
 
