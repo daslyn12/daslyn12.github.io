@@ -32,5 +32,13 @@ Shift Cipher is an application that encodes and decodes using a simple substitut
 
 Trivia Application is an app where you can put your trivia knowlege about animals to the test.
 
+## Wild Trivia GUI
+This app will test your knowlegde about the wild. Mostly trivia about animals, such as giraffes and ostrichs. You sumbit your answer in the text box and the app will tell you if you were wrong and the right answer, or give you point.
+![Screenshot (17)](https://user-images.githubusercontent.com/74846368/101314384-0b054080-381e-11eb-988d-e547f9d16c69.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/74846368/101314388-0f315e00-381e-11eb-9897-f25a5e7a6dc5.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/74846368/101314394-1193b800-381e-11eb-9e84-9711bf1cc700.png)
+
+To win the game you must get more than 8 questions right. This is pulled from the original Wild Trivia game, with some of the same code. 
+
 
 
